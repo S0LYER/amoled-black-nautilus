@@ -43,7 +43,7 @@ cp gtk.css ~/.config/gtk-4.0
 ## Probably bugs 
 
 > [!IMPORTANT]
-> Theese are not CSS theme bugs. Theese are GTK bugs. And I can't fix them because nautilus is not my project. It works more stable on tested distributions. It works the most stable if you use distro on systemd. Big part of bugs I have seen on Gentoo OpenRC with hyprland
+> Theese are not CSS theme bugs. Theese are GTK bugs. And I can't fix them because nautilus is not my project. It works more stable on tested distributions. It works the most stable if you use distro on systemd. Big part of bugs I have seen only on Gentoo OpenRC with hyprland because it is very specific distro. I can't say anything about distros with RunIT like Void Linux
 
 * Sidebar changes color from black to white
 * Fully black not inverted text
