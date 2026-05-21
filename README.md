@@ -2,7 +2,7 @@
 This is nautilus black and white theme for your setup
 
 > [!IMPORTANT]
->  This theme for all GTK apps and it's not only for nautilus. In nautilus it applies only on pannels, background, e.t.c. It doesn't choose a color of folders. [Click here if you want to change color of folders]().
+>  This theme for all GTK apps and it's not only for nautilus. In nautilus it applies only on pannels, background, e.t.c. It doesn't choose a color of folders. [Click here if you want to change color of folders](https://github.com/GadzhievAleksandr/amoled-black-nautilus/blob/main/README.md#how-to-change-color-of-folders).
 
 ## Attention
 * This theme changes all GTK-base apps on your PC
