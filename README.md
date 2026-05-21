@@ -1,7 +1,8 @@
 # Nautilus amoled theme
 This is nautilus black and white theme for your setup
 
-> This theme only for pannels, background, e.t.c. It doesn't choose a color of folders
+> [!IMPORTANT]
+>  This theme only for pannels, background, e.t.c. It doesn't choose a color of folders
 
 ## Attention
 * This theme changes all GTK-base apps on your PC
@@ -16,7 +17,8 @@ This is nautilus black and white theme for your setup
 * Debian
 * Kali Linux
 
-It works stable on theese distros. If you install it on other distros you can have some bugs. Please read it before installation.
+> [!NOTE]
+>  It works stable on theese distros. If you install it on other distros you can have some bugs. Please read it before installation.
 
 ## Screenshots
 
@@ -37,3 +39,13 @@ cp gtk.css ~/.config/gtk-4.0
 * You need install nwg-look (if you haven't got it)
 * You need install theme of icons
 * You need change theese icons in nwg-look
+
+## Probably bugs 
+
+> [!IMPORTANT]
+> Theese are not CSS theme bugs. Theese are GTK bugs. And I can't fix them because nautilus is not my project. It works more stable on tested distributions
+
+* White sidebar
+* Fully black not adaptive text
+* Theme can't applied on several distributions or applies after several time
+* Other not critical things
