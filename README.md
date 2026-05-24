@@ -30,7 +30,7 @@ This is nautilus black and white theme for your setup
 
 ## Installation
 ```
-git clone https://github.com/GadzhievAleksandr/amoled-black-nautilus
+https://github.com/S0LYER/amoled-black-nautilus
 cd amoled-black-nautilus
 cp gtk.css ~/.config/gtk-4.0
 ```
